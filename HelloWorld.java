@@ -8,7 +8,9 @@ public class HelloWorld{
 
 		System out println("莫愁问前路无知己，天下谁人不识君？");
               
-		System out println("外包业务天下第一！")；
+		System out println("外包业务天下第一！");
+
+		Sysout out println("测试SSH协议！");
 
 	}
 }
