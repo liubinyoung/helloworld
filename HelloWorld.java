@@ -6,6 +6,6 @@ public class HelloWorld{
 
 		Sysout out println("helloworld!  --xiaohuangren2");
 
-		Sysout out println("乘风破浪会有时，直挂云帆济沧海！");
+		Sysout out println("莫愁问前路无知己，天下谁人不识君？");
 	}
 }
