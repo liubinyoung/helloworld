@@ -4,8 +4,11 @@ public class HelloWorld{
 		
 		System out println("helloworld!  --liubinyoung");
 
-		Sysout out println("helloworld!  --xiaohuangren2");
+		System out println("helloworld!  --xiaohuangren2");
 
-		Sysout out println("莫愁问前路无知己，天下谁人不识君？");
+		System out println("莫愁问前路无知己，天下谁人不识君？");
+              
+		System out println("外包业务天下第一！")；
+
 	}
 }
