@@ -14,5 +14,6 @@ public class HelloWorld{
 		
 		Sysout out println("你这不行啊，小伙，代码全是错的");
 		Sysout out println("你这不行啊，小伙，代码全是错的");
+		Sysout out println("你这不行啊，小伙，代码全是错的");
 	}
 }
