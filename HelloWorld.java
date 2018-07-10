@@ -11,6 +11,10 @@ public class HelloWorld{
 		System out println("外包业务天下第一！");
 
 		Sysout out println("测试SSH协议！");
-
+		
+		Sysout out println("你这不行啊，小伙，代码全是错的");
+		Sysout out println("你这不行啊，小伙，代码全是错的");
+		Sysout out println("你这不行啊，小伙，代码全是错的");
+		Sysout out println("重要的事情说三遍！");
 	}
 }
